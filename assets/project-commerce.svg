@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-label="Calculadora para e-commerce. Compara flete, margen, publicidad y utilidad estimada. Herramienta con demo web enlazada desde el repositorio"><rect x="1" y="1" width="1198" height="243" rx="16" fill="#fff" stroke="#dce4f0" stroke-width="2"/><path d="M17 1H276V244H17Q1 244 1 228V17Q1 1 17 1" fill="#fff2e8"/><g><rect x="62" y="45" width="150" height="155" rx="14" fill="white" stroke="#e4b490" stroke-width="2"/><rect x="80" y="65" width="114" height="38" rx="7" fill="#fff2e8"/><path d="M92 123H110M101 114V132M142 123H163M91 155H111M91 165H111M145 151L162 169M162 151L145 169" stroke="#85451d" stroke-width="4" stroke-linecap="round"/><circle cx="205" cy="55" r="24" fill="#163db5"/><path d="M195 55L203 63L216 47" stroke="white" fill="none" stroke-width="3"/></g><g font-family="Segoe UI,Arial,sans-serif"><text x="310" y="53" fill="#85451d" font-size="28" font-weight="700">Calculadora para e-commerce</text><text x="310" y="89" fill="#304979" font-size="19">De los costos de una tienda a un precio de venta.</text><text x="310" y="125" fill="#53688c" font-size="18">Compara flete, margen, publicidad y utilidad estimada.</text><text x="310" y="171" fill="#85451d" font-size="16" font-weight="600">Frontend  /  Escenarios de CPA  /  Almacenamiento local</text><text x="310" y="211" fill="#65748b" font-size="15">Herramienta con demo web enlazada desde el repositorio</text><path d="M1130 40H1150V60M1129 61L1150 40" fill="none" stroke="#85451d" stroke-width="2"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Calculadora de precios para e-commerce: compara costos, flete, publicidad y margen para estimar la utilidad. Incluye demostración web.">
+<rect x="1" y="1" width="1198" height="284" rx="18" fill="#101722" stroke="#31435a" stroke-width="2"/>
+<path d="M18 2H286V284H18Q2 284 2 268V18Q2 2 18 2" fill="#2a211d"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="47" y="30" width="194" height="207" rx="17" fill="#131a25" stroke="#6c4a36" stroke-width="2"/>
+<rect x="66" y="48" width="156" height="46" rx="9" fill="#1d2b33"/>
+<text x="82" y="67" fill="#8fa4b4" font-size="12">PRECIO SUGERIDO</text><text x="82" y="86" fill="#77e0c0" font-size="20" font-weight="700">tu escenario</text>
+<g fill="#232f3e"><rect x="66" y="108" width="43" height="34" rx="8"/><rect x="122" y="108" width="43" height="34" rx="8"/><rect x="179" y="108" width="43" height="34" rx="8"/><rect x="66" y="153" width="43" height="34" rx="8"/><rect x="122" y="153" width="43" height="34" rx="8"/><rect x="179" y="153" width="43" height="34" rx="8"/></g>
+<g fill="#f2b87b" font-size="15" text-anchor="middle"><text x="87" y="130">CPA</text><text x="144" y="130">ENVÍO</text><text x="200" y="130">%</text><text x="87" y="175">+</text><text x="144" y="175">−</text><text x="200" y="175">=</text></g>
+<path d="M72 211H116M124 211H168M176 211H216" stroke="#f2b87b" stroke-width="4" stroke-linecap="round"/>
+<circle cx="228" cy="51" r="12" fill="#57e0c0"/><path d="M222 51L226 55L234 46" stroke="#0d1420" stroke-width="2" fill="none"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="326" y="31" width="205" height="28" rx="8" fill="#33271f"/><text x="342" y="50" fill="#f2b87b" font-size="13" font-weight="700" letter-spacing="1.4">03 / PRODUCTO DIGITAL</text>
+<text x="326" y="102" fill="#f1f5f9" font-size="34" font-weight="700">Calculadora para e-commerce</text>
+<text x="326" y="140" fill="#b4c3d5" font-size="20">Costos y escenarios de publicidad convertidos en decisiones de precio.</text>
+<text x="326" y="183" fill="#dce7f3" font-size="17" font-weight="600">CPA  ·  Flete  ·  Margen  ·  Utilidad estimada</text>
+<text x="326" y="225" fill="#8d9cb0" font-size="16">La herramienta corre en el navegador y guarda los datos localmente.</text>
+<text x="326" y="261" fill="#f2b87b" font-size="15" font-weight="700">PROBAR LA DEMO WEB  ↗</text>
+</g></svg>
