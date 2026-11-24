@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-label="Editor + compresión concurrente. Huffman por bloques, sincronización y validación de integridad. Incluye documentación, pruebas y video de demostración"><rect x="1" y="1" width="1198" height="243" rx="16" fill="#fff" stroke="#dce4f0" stroke-width="2"/><path d="M17 1H276V244H17Q1 244 1 228V17Q1 1 17 1" fill="#e9f3f6"/><g><path d="M135 60L80 110M135 60L190 110M80 110L55 165M80 110L110 165M190 110L165 165M190 110L220 165" stroke="#74a8b8" fill="none" stroke-width="3"/><g fill="#173551"><circle cx="135" cy="60" r="16"/><circle cx="80" cy="110" r="13"/><circle cx="190" cy="110" r="13"/></g><g fill="#ed8e4b"><rect x="43" y="153" width="24" height="24" rx="5"/><rect x="98" y="153" width="24" height="24" rx="5"/><rect x="153" y="153" width="24" height="24" rx="5"/><rect x="208" y="153" width="24" height="24" rx="5"/></g></g><g font-family="Segoe UI,Arial,sans-serif"><text x="310" y="53" fill="#173551" font-size="28" font-weight="700">Editor + compresión concurrente</text><text x="310" y="89" fill="#304979" font-size="19">Un editor de terminal que también trabaja en paralelo.</text><text x="310" y="125" fill="#53688c" font-size="18">Huffman por bloques, sincronización y validación de integridad.</text><text x="310" y="171" fill="#173551" font-size="16" font-weight="600">C  /  Linux  /  POSIX  /  pthreads</text><text x="310" y="211" fill="#65748b" font-size="15">Incluye documentación, pruebas y video de demostración</text><path d="M1130 40H1150V60M1129 61L1150 40" fill="none" stroke="#173551" stroke-width="2"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Editor y compresor Huffman concurrente en C para Linux y POSIX. Procesa bloques de 64 KiB con hilos y verifica integridad mediante CRC-32.">
+<rect x="1" y="1" width="1198" height="284" rx="18" fill="#101722" stroke="#31435a" stroke-width="2"/>
+<path d="M18 2H286V284H18Q2 284 2 268V18Q2 2 18 2" fill="#142331"/>
+<g font-family="Consolas,monospace">
+<rect x="30" y="32" width="225" height="145" rx="12" fill="#0d1420" stroke="#304658"/>
+<text x="47" y="58" fill="#8397ac" font-size="13">Huffman / workers</text>
+<path d="M142 78L93 112M142 78L191 112M93 112L65 147M93 112L121 147M191 112L163 147M191 112L220 147" stroke="#59cbb4" stroke-width="2"/>
+<g fill="#243853" stroke="#a78bfa" stroke-width="2"><circle cx="142" cy="78" r="13"/><circle cx="93" cy="112" r="11"/><circle cx="191" cy="112" r="11"/></g>
+<g fill="#1d4237" stroke="#57e0c0" stroke-width="1.5"><rect x="54" y="137" width="22" height="22" rx="5"/><rect x="110" y="137" width="22" height="22" rx="5"/><rect x="152" y="137" width="22" height="22" rx="5"/><rect x="209" y="137" width="22" height="22" rx="5"/></g>
+<text x="43" y="202" fill="#57e0c0" font-size="14">64 KiB</text><text x="109" y="202" fill="#8497aa" font-size="14">→</text><text x="130" y="202" fill="#c4b5fd" font-size="14">parallel</text><text x="204" y="202" fill="#8497aa" font-size="14">→</text>
+<rect x="42" y="221" width="202" height="25" rx="7" fill="#1c2938"/><text x="143" y="238" fill="#b6c6d8" font-size="13" text-anchor="middle">VERIFICACIÓN CRC-32</text>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="326" y="31" width="276" height="28" rx="8" fill="#1a2a36"/><text x="342" y="50" fill="#7edfc8" font-size="13" font-weight="700" letter-spacing="1.4">02 / SISTEMAS Y CONCURRENCIA</text>
+<text x="326" y="102" fill="#f1f5f9" font-size="34" font-weight="700">Editor + compresión Huffman</text>
+<text x="326" y="140" fill="#b4c3d5" font-size="20">Una herramienta de terminal que edita archivos y comprime en paralelo.</text>
+<text x="326" y="183" fill="#dce7f3" font-size="17" font-weight="600">C  ·  Linux/POSIX  ·  pthreads  ·  CRC-32</text>
+<text x="326" y="225" fill="#8d9cb0" font-size="16">Proyecto académico con documentación, pruebas y video de demostración.</text>
+<text x="326" y="261" fill="#57e0c0" font-size="15" font-weight="700">VER REPOSITORIO, VIDEO E INFORME  ↗</text>
+</g></svg>
