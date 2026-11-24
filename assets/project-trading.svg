@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-label="Bot de Trading Cuantitativo V2. Consenso, controles de riesgo, órdenes y reconciliación. Origen en Mainnet · Copia pública adaptada a Testnet"><rect x="1" y="1" width="1198" height="243" rx="16" fill="#fff" stroke="#dce4f0" stroke-width="2"/><path d="M17 1H276V244H17Q1 244 1 228V17Q1 1 17 1" fill="#edf3ff"/><g><path d="M55 155L85 125L115 140L145 80L175 100L205 55" fill="none" stroke="#163db5" stroke-width="5"/><path d="M55 185H220M55 185V45" fill="none" stroke="#9cb4e5" stroke-width="2"/><circle cx="205" cy="55" r="8" fill="#ed8e4b"/></g><g font-family="Segoe UI,Arial,sans-serif"><text x="310" y="53" fill="#163db5" font-size="28" font-weight="700">Bot de Trading Cuantitativo V2</text><text x="310" y="89" fill="#304979" font-size="19">Señales que se convierten en decisiones de ejecución.</text><text x="310" y="125" fill="#53688c" font-size="18">Consenso, controles de riesgo, órdenes y reconciliación.</text><text x="310" y="171" fill="#163db5" font-size="16" font-weight="600">Python  /  APIs REST  /  Gestión de estado</text><text x="310" y="211" fill="#65748b" font-size="15">Origen en Mainnet · Copia pública adaptada a Testnet</text><path d="M1130 40H1150V60M1129 61L1150 40" fill="none" stroke="#163db5" stroke-width="2"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Bot de trading cuantitativo V2: sistema modular Python con señales, políticas de riesgo, ejecución y reconciliación. La copia pública está adaptada a Binance Futures Testnet.">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11253a"/><stop offset="1" stop-color="#19233d"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="284" rx="18" fill="#101722" stroke="#31435a" stroke-width="2"/>
+<path d="M18 2H286V284H18Q2 284 2 268V18Q2 2 18 2" fill="url(#a)"/>
+<g stroke="#334a63" stroke-width="1"><path d="M31 63H261M31 99H261M31 135H261M31 171H261M31 207H261"/><path d="M55 39V231M91 39V231M127 39V231M163 39V231M199 39V231M235 39V231"/></g>
+<path d="M42 185L77 161L112 174L148 115L182 133L220 78L257 61" fill="none" stroke="#57e0c0" stroke-width="4"/>
+<g fill="#0e1723" stroke="#8c9cff" stroke-width="3"><circle cx="77" cy="161" r="6"/><circle cx="148" cy="115" r="6"/><circle cx="220" cy="78" r="6"/></g>
+<rect x="38" y="218" width="67" height="24" rx="7" fill="#17382f"/><text x="71" y="235" fill="#8cf0ce" font-family="Segoe UI,Arial" font-size="12" text-anchor="middle">SEÑAL</text>
+<rect x="111" y="218" width="69" height="24" rx="7" fill="#272544"/><text x="145" y="235" fill="#c4b5fd" font-family="Segoe UI,Arial" font-size="12" text-anchor="middle">RIESGO</text>
+<rect x="186" y="218" width="70" height="24" rx="7" fill="#193148"/><text x="221" y="235" fill="#99dcf2" font-family="Segoe UI,Arial" font-size="12" text-anchor="middle">ORDEN</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="326" y="31" width="244" height="28" rx="8" fill="#1a2a36"/><text x="342" y="50" fill="#7edfc8" font-size="13" font-weight="700" letter-spacing="1.4">01 / SISTEMA PERSONAL</text>
+<text x="326" y="102" fill="#f1f5f9" font-size="34" font-weight="700">Bot de Trading Cuantitativo V2</text>
+<text x="326" y="140" fill="#b4c3d5" font-size="20">Señales → política de riesgo → ejecución → reconciliación.</text>
+<text x="326" y="183" fill="#dce7f3" font-size="17" font-weight="600">Python  ·  Binance Futures API  ·  Estado local</text>
+<text x="326" y="225" fill="#8d9cb0" font-size="16">El original se desarrolló para Mainnet; el repositorio público está limitado a Testnet.</text>
+<text x="326" y="261" fill="#57e0c0" font-size="15" font-weight="700">EXPLORAR CÓDIGO EN GITHUB  ↗</text>
+</g></svg>
